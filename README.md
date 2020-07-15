@@ -1,7 +1,7 @@
-### Hi there 👋
-🌱 I’m currently learning React
-🔭 I’m currently working on Xevent planner app
-📫 How to reach me: ciumac.dev@gmail.com
+### Hi there 👋 <br>
+🌱 I’m currently learning React <br>
+🔭 I’m currently working on Xevent planner app <br>
+📫 How to reach me: ciumac.dev@gmail.com <br>
 ⚡ Fun fact: Banging your head against a wall for one hour burns 150 calories. 😅
 
 <!--
