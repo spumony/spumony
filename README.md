@@ -2,7 +2,7 @@
 🌱 I’m currently learning **React.js** <br>
 🔭 I’m currently working on **Xevent** planner app <br>
 📫 How to reach me: **ciumac.dev@gmail.com** <br>
-⚡ Fun fact: > Banging your head against a wall for one hour burns 150 calories. 😅
+⚡ Fun fact: Banging your head against a wall for one hour burns 150 calories. 😅
 
 <!--
 **spumony/spumony** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
