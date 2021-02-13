@@ -1,6 +1,5 @@
 ### Hi there 👋 <br>
-🌱 I’m currently learning **React.js** <br>
-🔭 I’m currently working on **Xvent** planner app <br>
+🌱 I’m currently working at **TeamArt** <br>
 📫 How to reach me: **ciumac.dev@gmail.com** <br>
 ⚡ Fun fact: Banging your head against a wall for one hour burns 150 calories. 😅
 
